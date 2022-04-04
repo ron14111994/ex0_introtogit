@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue
+Favorite food: Schnitzel
+Favorite musician/band: Guns N' Roses
+Favorite movie: Scarface
+Requested grade in the course: 99
